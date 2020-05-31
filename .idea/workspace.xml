@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d98787c9-9e6a-4c8c-bcb0-991a8ccb0436" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bHbcUc0qfVSgNyn9rQKnb9vhJE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\faizan\PycharmProjects\ScandalScrapping\Basic" />
+      <recent name="C:\Users\faizan\PycharmProjects\ScandalScrapping\Webdriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Launcher">
+    <configuration name="Authenticate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScandalScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Authenticate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Authenticate_Selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScandalScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Authenticate_Selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Launcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScandalScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Launcher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Launcher_Basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScandalScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Launcher_Basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Searcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScandalScrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Searcher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Launcher" />
+        <item itemvalue="Python.Launcher_Basic" />
+        <item itemvalue="Python.Authenticate_Selenium" />
+        <item itemvalue="Python.Searcher" />
+        <item itemvalue="Python.Authenticate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98787c9-9e6a-4c8c-bcb0-991a8ccb0436" name="Default Changelist" comment="" />
+      <created>1588292045014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588292045014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="123" key="FileChooserDialogImpl" timestamp="1588471099459">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="123" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588471099459" />
+    <state width="1339" height="202" key="GridCell.Tab.0.bottom" timestamp="1590923058286">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="202" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590923058286" />
+    <state width="1339" height="202" key="GridCell.Tab.0.center" timestamp="1590923058286">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="202" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590923058286" />
+    <state width="1339" height="202" key="GridCell.Tab.0.left" timestamp="1590923058286">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="202" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590923058286" />
+    <state width="1339" height="202" key="GridCell.Tab.0.right" timestamp="1590923058286">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="202" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590923058286" />
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1590775112833">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590775112833" />
+    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1590775112832">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590775112832" />
+    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1590775112832">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590775112832" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1590775112832">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590775112832" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588293310789">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1588293310789" />
+  </component>
+</project>
